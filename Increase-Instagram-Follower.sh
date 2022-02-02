@@ -1,7 +1,7 @@
 #!/bin/bash
-# insfollow v2.0
-# recoded by: Termux Professor
-# github.com/termuxprofessor/insfollow
+# Increase-Instagram-Follower v2.0
+# recoded by: Jarvisstar
+# https://github.com/jarvisstar/Increase-Instagram-Follower
 # If you use any part from this code, give me the credits, please, read the License
 
 clear
@@ -31,7 +31,7 @@ echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m╠═╣ \e[1;92m
 
 echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴─┘"
 
-echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩   by - \e[1;92mTermux Professor"
+echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩   by - \e[1;92mJarvisstar"
 
 }
 
