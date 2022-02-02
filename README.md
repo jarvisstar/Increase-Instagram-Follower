@@ -28,5 +28,3 @@ Best Tool For Increase Instagram Follower.
 
 `$ bash Increase-Instagram-Follower.sh`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/SAkFZJRaq0U
