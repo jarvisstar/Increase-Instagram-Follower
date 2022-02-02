@@ -1,6 +1,6 @@
 # Increase-Instagram-Follower
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jarvisstar/Increase-Instagram-Follower/main/Screenshot_20220202-122528__01.jpg" width="470" height="250">
+  <img src="https://raw.githubusercontent.com/jarvisstar/Increase-Instagram-Follower/main/Screenshot_20220202-122528__01.jpg">
 </p>
 Best Tool For Increase Instagram Follower.
 
